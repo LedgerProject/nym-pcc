@@ -65,6 +65,8 @@ Go to https://localhost:3000/
 
 > **Note:** the local dev server runs on HTTPS because this is the only way the camera video stream is allowed to be consumed by the browser's script
 
+If you want to play around with the app without building it you can do so here (https://nym-pcc.vercel.app/)
+
 ## Coconut CLI and WASM playground
 
 A CLI for experimenting with Coconut can be found in [packages/coconut-cli](packages/coconut-cli) with a similar tool that runs the Coconut WASM package in the browser ([packages/coconut-wasm/www](packages/coconut-wasm/www)).
