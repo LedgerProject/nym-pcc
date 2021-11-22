@@ -65,7 +65,7 @@ Go to https://localhost:3000/
 
 > **Note:** the local dev server runs on HTTPS because this is the only way the camera video stream is allowed to be consumed by the browser's script
 
-If you want to play around with the app without building it you can do so [here] (https://nym-pcc.vercel.app/)
+If you want to play around with the app without building it you can do so [here](https://nym-pcc.vercel.app/)
 
 ## Coconut CLI and WASM playground
 
