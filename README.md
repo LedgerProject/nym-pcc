@@ -4,6 +4,8 @@ The existing Digital Covid Certificates do not provide strong privacy properties
 
 We propose a privacy enhanced version using blinded and re-randomizable Coconut credentials that can tackle the above issues. We call this product Private Covid Certificate (PCC)
 
+You can read more about Coconut credentials and the PCC app design in the [docs](https://github.com/LedgerProject/nym-pcc/blob/main/docs/Nym%20PCC%20-%20Flows%20and%20assumptions.pdf) 
+
 ## Technology
 
 Privacy is provided by [Nym's Coconut technology](https://github.com/nymtech/coconut), both for identity and private versions of documents that contain large amounts of personal data, e.g. COVID passes and test results.
@@ -65,7 +67,7 @@ Go to https://localhost:3000/
 
 > **Note:** the local dev server runs on HTTPS because this is the only way the camera video stream is allowed to be consumed by the browser's script
 
-If you want to play around with the apps without building it you can do so [here](https://nym-pcc.vercel.app/)
+If you want to play around with the usr and the verifier apps without building them you can do so at https://nym-pcc.vercel.app/
 
 ## Coconut CLI and WASM playground
 
