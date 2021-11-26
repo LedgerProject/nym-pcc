@@ -4,7 +4,7 @@ The existing Digital Covid Certificates do not provide strong privacy properties
 
 We propose a privacy enhanced version using blinded and re-randomizable Coconut credentials that can tackle the above issues. We call this product Private Covid Certificate (PCC)
 
-You can read more about Coconut credentials and the PCC app design in the [docs](https://github.com/LedgerProject/nym-pcc/blob/main/docs/Nym%20PCC%20-%20Flows%20and%20assumptions.pdf) 
+You can read more about Coconut credentials and the PCC app design in the [docs](https://github.com/LedgerProject/nym-pcc/blob/main/docs/Nym%20PCC%20-%20Final%20flows%20and%20design.pdf) 
 
 ## Technology
 
